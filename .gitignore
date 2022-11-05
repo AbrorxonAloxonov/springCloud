@@ -1,0 +1,6 @@
+# Project exclude paths
+/category/target/
+/eurekaServerS/target/
+/gateway/target/
+/product/target/
+/target/
